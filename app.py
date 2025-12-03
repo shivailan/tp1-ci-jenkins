@@ -1,5 +1,3 @@
-# Fichier app.py
-
+# Fichier app.py avec le bug
 def addition(a, b):
-    """Retourne la somme de deux nombres."""
-    return a + b
+    return a + b + 1  # BUG INTENTIONNEL !b
