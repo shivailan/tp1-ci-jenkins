@@ -1,3 +1,3 @@
-# Fichier app.py avec le bug
+# Fichier app.py corrigé
 def addition(a, b):
-    return a + b + 1  # BUG INTENTIONNEL !
+    return a + b # Correction du bug
